@@ -4,7 +4,7 @@
 
 Ingredients slide across the screen — tap at the perfect moment to drop them on your burger. Miss the mark and the overhang gets sliced off, making your burger skinnier. Nail a **PERFECT** drop and your burger grows back wider while your combo (and cash) multiplies. How tall can you build before your burger topples?
 
-🎮 **Play it:** `https://<your-username>.github.io/<repo-name>/`
+🎮 **Play it:** `https://tamilninja.github.io/burgerstack/`
 
 ![Genre](https://img.shields.io/badge/genre-hyper--casual-orange)
 ![Platform](https://img.shields.io/badge/platform-YouTube%20Playables%20%7C%20Web-red)
