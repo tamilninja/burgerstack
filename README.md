@@ -62,7 +62,3 @@ npx http-server -p 4173 .
 ```
 
 Or just double-click `index.html`.
-
-## License
-
-MIT — do whatever you like with it.
